@@ -1,0 +1,9 @@
+{
+  "name": "Jungle Game",
+  "short_name": "JungleGame",
+  "description": "A cinematic jungle survival concept for Windows PC.",
+  "start_url": "/jungle-game/",
+  "display": "standalone",
+  "background_color": "#08100b",
+  "theme_color": "#08100b"
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arigitshub.github.io/jungle-game/sitemap.xml
