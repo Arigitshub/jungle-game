@@ -19,6 +19,8 @@ Open `index.html` in a browser to preview the public site.
 - [Vertical Slice Plan](docs/vertical-slice.md)
 - [Brand and SEO Brief](docs/brand-seo.md)
 - [Production Roadmap](docs/roadmap.md)
+- [Engine Recommendation](docs/engine-decision.md)
+- [Launch Kit](marketing/launch-kit.md)
 
 ## Project structure
 
