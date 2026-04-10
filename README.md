@@ -1,19 +1,39 @@
 # Jungle Game
 
-A cinematic Windows PC jungle game concept site built as the public launchpad for the project.
+Jungle Game is a cinematic Windows PC jungle survival project built around realistic terrain, psychological pacing, and premium visual atmosphere.
 
-## What is here
+## Repo contents
 
-- A polished static landing page
-- SEO metadata and social sharing tags
-- Web manifest, robots file, and sitemap
+- Public landing page and SEO assets
+- Game design document and production planning docs
+- Vertical slice definition for the first playable prototype
+- Engine-agnostic folder structure for code, art, audio, and marketing
 
-## Local preview
+## Quick start
 
-Open `index.html` in a browser.
+Open `index.html` in a browser to preview the public site.
 
-## Next steps
+## Core docs
 
-- Build the actual game prototype
-- Capture screenshots and gameplay footage
-- Connect the landing page to a mailing list and trailer
+- [Game Design Document](docs/GDD.md)
+- [Vertical Slice Plan](docs/vertical-slice.md)
+- [Brand and SEO Brief](docs/brand-seo.md)
+- [Production Roadmap](docs/roadmap.md)
+
+## Project structure
+
+- `docs/` planning, systems, and publishing strategy
+- `game/` engine project placeholder
+- `src/` shared gameplay and prototype notes
+- `marketing/` launch copy, store assets, and trailers
+- `assets/` concept art, audio, screenshots, and reference material
+
+## Immediate objective
+
+Build a first playable jungle exploration prototype with:
+
+- One dense traversal path
+- One waterfall or river landmark
+- One stealth or predator encounter
+- One ruin discovery moment
+- One tension-release sequence that proves the game loop
