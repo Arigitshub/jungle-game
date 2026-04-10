@@ -6,6 +6,7 @@ Desktop.ini
 Binaries/
 Build/
 DerivedDataCache/
+LocalDerivedDataCache/
 Intermediate/
 Saved/
 *.VC.db
@@ -25,3 +26,6 @@ Saved/
 # Common art and editor caches
 *.blend1
 *.autosave
+
+# Unreal generated world partition and HLOD artifacts for now
+*_HLOD*.uasset
